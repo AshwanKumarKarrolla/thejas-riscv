@@ -1,0 +1,1 @@
+Check out the /docs folder for architecture details and usage instructions.
