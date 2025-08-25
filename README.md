@@ -28,12 +28,3 @@ Clone the repo and dive into the architecture:
 
 ```bash
 git clone https://github.com/AshwanKumarKarrolla/thejas-riscv.git
-
-
-Check out the /docs folder for architecture details and usage instructions.
-
-📜 License
-This project is licensed under the MIT License.
-
-🤝 Contributing
-We welcome contributions! Check out the CONTRIBUTING.md to get started.
